@@ -32,7 +32,7 @@ let conta = "";
 
 do {
   conta = prompt(
-    "Escolha qual operação ira ser realizada?\n1 - Retangulo\n2 - Triangulo\n3 - Quadrado\n4 - Trapézio\n5 - Círculo\n56- Sair"
+    "Escolha qual operação ira ser realizada?\n1 - Retangulo\n2 - Triangulo\n3 - Quadrado\n4 - Trapézio\n5 - Círculo\n6- Sair"
   );
 
   switch (conta) {
